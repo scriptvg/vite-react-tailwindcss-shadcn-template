@@ -20,7 +20,7 @@ function App() {
             asChild
           >
             <a href="https://react.dev" target="_blank" rel="noreferrer">
-              React 18{" "}
+              React 19.2{" "}
               <img
                 src={reactLogo}
                 alt="React logo"
